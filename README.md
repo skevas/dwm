@@ -7,3 +7,4 @@
 ## Req
 
 * urxvt
+* demnu
