@@ -8,3 +8,4 @@
 
 * urxvt
 * demnu
+* flameshot
