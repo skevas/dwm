@@ -6,6 +6,7 @@
 
 ## Req
 
-* urxvt
 * demnu
 * flameshot
+* slock
+* st
