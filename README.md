@@ -10,3 +10,7 @@
 * flameshot
 * slock
 * st
+
+# Shortcuts
+## DWM
+<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Space</kbd>
