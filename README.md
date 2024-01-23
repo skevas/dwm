@@ -30,3 +30,17 @@
 | Screenshot (GUI) | <kbd>Print</kbd> |
 | Screenshot | <kbd>Win</kbd> + <kbd>Print</kbd> |
 | Lock screen | <kbd>Win</kbd> + <kbd>l</kbd> |
+
+## st 
+
+| Command | Shortcut |
+|---------|----------|
+| Text zoom +  | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Page Up</kbd> |
+| Text zoom - | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Page down</kbd> |
+| Reset text zoom | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Home</kbd> |
+| Copy to clipboard | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>c</kbd> |
+| Paste from clipboard | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>v</kbd> |
+| Paste from select board | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>y</kbd> |
+|  | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd></kbd> |
+|  | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd></kbd> |
+
